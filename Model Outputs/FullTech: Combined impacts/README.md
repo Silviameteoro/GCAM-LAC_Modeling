@@ -1,1 +1,1 @@
-Note that the final scenario naming used in the manuscript differs from what was used originally to perform the GCAM simulations. For this reason, the names of the scenarios listed in the .csv files (model outputs) differ from the scenario names adopted in the manuscript.
+Note that the final scenario naming used in the manuscript differs from what was used originally to perform the GCAM simulations. For this reason, the scenario names listed in the .csv files (model outputs) differ from the ones adopted in the manuscript.
