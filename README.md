@@ -43,6 +43,7 @@ Additional material can be found here: http://www.globalchange.umd.edu/data/gcam
 
 To run the specific scenarios of this study, it is necessary to use the configuration files shown in "Model Inputs/configuration_files" (see the README file within that folder). (**** Note that it is not necessary to download these configuration files. When the source code is downloaded, these files are downloaded with the code. ****)
 
+Time required for each simulation varies as some scenarios are more challenging to solve than others. This varies from about 50 min to 2 hours on a "normal" desktop computer (assuming a minimum of 8 GB RAM).
 
 5) Outputs
 
