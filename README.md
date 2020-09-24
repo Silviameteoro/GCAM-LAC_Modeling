@@ -4,20 +4,20 @@ This repository contains modeling data (source code link and information, model 
 
 1) Source Code
 
-This analysis employed the GCAM-LAC model (a research branch of the open-source Global Change Analysis Model ─ GCAM). The source code of the GCAM-LAC is available at:
+This analysis employed the GCAM-LAC model (a research branch of the open-source Global Change Analysis Model ─ GCAM). The source code of GCAM-LAC is available at:
 
 Silvia R. Santos da Silva, Mohamad Hejazi, Gokul Iyer, Thomas B. Wild, Matthew Binsted, Fernando Miralles-Wilhelm, … Chris R. Vernon. (2020, September 24). Silviameteoro/GCAM-LAC: GCAM-LAC_v5.1.3_Santos_da_Silva_et_al_2020 (Version GCAM-LAC_v5.1.3_Santos_da_Silva_et_al_2020). Zenodo. http://doi.org/10.5281/zenodo.4048788
 
 2) System Requirements for the source code installation
 
-Any recent 64-bit operating system including but not necessarily limited to Windows 10, Mac OSX 10.14, and Linux
+Any recent 64-bit operating system: Windows 10, Mac OSX 10.14, and Linux
 
 Additional software and libraries include:
-Java 8+
-C++ compiler to compile source code with C++14 standard support such as GCC 5+ or Microsoft Visual Studio 2015+
-R 3.3+ for running the GCAM data system
-The boost C++ library 1.56+
-Xerces C++ library 3.1.1+
+- Java 8+
+- C++ compiler to compile source code with C++14 standard support such as GCC 5+ or Microsoft Visual Studio 2015+
+- R 3.3+ for running the GCAM data system
+- The boost C++ library 1.56+
+- Xerces C++ library 3.1.1+
 
 No non-standard hardware, however it is recommended that the user has 8 GB RAM. 
 
