@@ -46,7 +46,8 @@ To run the specific scenarios of this study, it is necessary to use the configur
 
 5) Outputs
 
-Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters (organized by scenario names) used in this analysis. 
+Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters (organized by scenario names) used in this analysis. (**** Note that it is not necessary to download the configuration files. When the source code is downloaded, these files are downloaded alongside with the code. ****)
+
 
 
 
