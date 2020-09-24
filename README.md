@@ -19,13 +19,15 @@ R 3.3+ for running the GCAM data system
 The boost C++ library 1.56+
 Xerces C++ library 3.1.1+
 
-No non-standard hardware, however it is recommended a user has 8 GB RAM.
+No non-standard hardware, however it is recommended that the user has 8 GB RAM. 
 
 3) Installation Guide
 
-The installation process is equal to the required for the GCAM standard version. The source code needs to be compiled following this guidelines:
+The installation process is equal to the required for the GCAM standard version. The source code needs is compiled according to these guidelines:
 
 http://jgcri.github.io/gcam-doc/gcam-build.html
+
+Installation time should take about 15-20 minutes to compile the C++ code and another 30 minutes to build the GCAM data system.
 
 4) 
 
