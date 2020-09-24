@@ -4,7 +4,7 @@ This repository contains modeling data (source code link and information, model 
 
 1) Source Code
 
-This analysis employed the GCAM-LAC model (a research branch of the open-source Global Change Analysis Model ─ GCAM). The source code of the specific version used in this study is available at:
+This analysis employed the GCAM-LAC model (a research branch of the open-source Global Change Analysis Model ─ GCAM). The source code of the GCAM-LAC is available at:
 
 Silvia R. Santos da Silva, Mohamad Hejazi, Gokul Iyer, Thomas B. Wild, Matthew Binsted, Fernando Miralles-Wilhelm, … Chris R. Vernon. (2020, September 24). Silviameteoro/GCAM-LAC: GCAM-LAC_v5.1.3_Santos_da_Silva_et_al_2020 (Version GCAM-LAC_v5.1.3_Santos_da_Silva_et_al_2020). Zenodo. http://doi.org/10.5281/zenodo.4048788
 
@@ -41,12 +41,12 @@ http://jgcri.github.io/gcam-doc/user-guide.html
 
 Additional material can be found here: http://www.globalchange.umd.edu/data/gcam/GCAM_tutorial_2019.pdf
 
-To run the specific scenarios of this study, it is necessary to use the configuration files shown in "Model Inputs/configuration_files". 
+To run the specific scenarios of this study, it is necessary to use the configuration files shown in "Model Inputs/configuration_files" (see the README file within that folder). (**** Note that it is not necessary to download these configuration files. When the source code is downloaded, these files are downloaded with the code. ****)
 
 
 5) Outputs
 
-Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters (organized by scenario names) used in this analysis. (**** Note that it is not necessary to download the configuration files. When the source code is downloaded, these files are downloaded alongside with the code. ****)
+Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters (organized by scenario names) used in this analysis.
 
 
 
