@@ -41,6 +41,9 @@ http://jgcri.github.io/gcam-doc/user-guide.html
 
 Additional material can be found here: http://www.globalchange.umd.edu/data/gcam/GCAM_tutorial_2019.pdf
 
+To run the specific scenarios of this study, it is necessary to use the configuration files shown in "Model Inputs/configuration_files". 
+
+
 5) Outputs
 
 Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters (organized by scenario names) used in this analysis. 
