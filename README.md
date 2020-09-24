@@ -43,7 +43,7 @@ Additional material can be found here: http://www.globalchange.umd.edu/data/gcam
 
 5) Outputs
 
-Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space. Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters used in this analysis. 
+Model outputs from each scenario is stored in an XML database. Each database requires about 2GB of space and stores a large number of parameters (most of them were not used in this work). Given that all databases produced for this study require more than 100 GB of space, this dataset is not hosted here. However, in the folder "Model Outputs" we provide all specific parameters used in this analysis. 
 
 
 
