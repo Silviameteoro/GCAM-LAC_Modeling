@@ -23,11 +23,28 @@ No non-standard hardware, however it is recommended that the user has 8 GB RAM.
 
 3) Installation Guide
 
-The installation process is equal to the required for the GCAM standard version. The source code needs is compiled according to these guidelines:
+The installation process is equal to the required for the GCAM standard version. The C++ source code is compiled according to these guidelines:
 
 http://jgcri.github.io/gcam-doc/gcam-build.html
 
+After compiling the source code, it is necessary to install the GCAM data system (written in R). Instructions to install the GCAM data system are available at:
+
+https://github.com/JGCRI/gcamdata/wiki
+
 Installation time should take about 15-20 minutes to compile the C++ code and another 30 minutes to build the GCAM data system.
 
-4) 
+4) Instructions to run the model
+
+Instructions to run the model can be found at (item 2 onwards) :
+
+http://jgcri.github.io/gcam-doc/user-guide.html
+
+Additional material can be found here: http://www.globalchange.umd.edu/data/gcam/GCAM_tutorial_2019.pdf
+
+
+
+
+
+
+
 
