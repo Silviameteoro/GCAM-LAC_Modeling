@@ -41,8 +41,9 @@ http://jgcri.github.io/gcam-doc/user-guide.html
 
 Additional material can be found here: http://www.globalchange.umd.edu/data/gcam/GCAM_tutorial_2019.pdf
 
+5) Outputs
 
-
+Model outputs from each scenario is stored in an XML database. Each database occupies about 2GB of space. Given that all databases produced for this study require more than 100 GB of space. This dataset is not host here.
 
 
 
