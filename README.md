@@ -23,7 +23,7 @@ No non-standard hardware, however it is recommended that the user has 8 GB RAM.
 
 3) Installation Guide
 
-The installation process is equal to the required for the GCAM standard version. The C++ source code is compiled according to these guidelines:
+The C++ source code is compiled according to these guidelines:
 
 http://jgcri.github.io/gcam-doc/gcam-build.html
 
