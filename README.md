@@ -19,7 +19,7 @@ Additional software and libraries include:
 - The boost C++ library 1.56+
 - Xerces C++ library 3.1.1+
 
-No non-standard hardware, however it is recommended that the user has 8 GB RAM. 
+No non-standard hardware is required, however it is recommended that the user has 8 GB RAM. 
 
 3) Installation Guide
 
