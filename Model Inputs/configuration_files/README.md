@@ -13,4 +13,4 @@ This folder includes the GCAM configuration files used to initialize the simulat
 
 6 - config-FullTech_hydro.xml: For simulations of the FullTech: Hydropower scenario.
 
-Each configuration file calls all other model input files needed for each scenario simulation. (**** Note that it is not necessary to download these configuration files. When the source code is downloaded, these files are downloaded with the code. ****)
+Each configuration file calls all other model input files needed for each scenario simulation. For example, the NoCCS & NoNewNuc scenarios require the fixed_nuclear_shwt_LAC_Uru.xml and the  (**** Note that it is not necessary to download these configuration files. When the source code is downloaded, these files are downloaded with the code. ****)
